@@ -44,6 +44,6 @@ Developing reusable Python tools for recommendation systems and machine learning
 
 ## Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/muhammad-hosseini/
-Kaggle: https://www.kaggle.com/muhammadsmh
-Email: muhammad.hosseini.smh@gmail.com
+- LinkedIn: https://www.linkedin.com/in/muhammad-hosseini/
+- Kaggle: https://www.kaggle.com/muhammadsmh
+- Email: muhammad.hosseini.smh@gmail.com
